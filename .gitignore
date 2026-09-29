@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+.env
+.env.*
+!*.example
+work/
+output/
+assets/
+client_secrets.json
+token*.pickle
+*.mp4
+*.mp3
+*.srt

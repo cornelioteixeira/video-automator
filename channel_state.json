@@ -1,0 +1,54 @@
+{
+  "foco": "conscientizacao brainrot PT-BR",
+  "formato": "80 shorts / 20 longos",
+  "metas_monetizacao": {
+    "horas_watch_longos": 4000,
+    "shorts_views_90d": 10000000,
+    "subs": 1000
+  },
+  "publicados": [
+    {
+      "arquivo": "output/video01_sinais.mp4",
+      "tipo": "longo",
+      "url": "https://youtu.be/KZxX6d_8Bl4"
+    },
+    {
+      "arquivo": "output/video02_dopamina.mp4",
+      "tipo": "longo",
+      "url": "https://youtu.be/EIwr3eh9Um0"
+    },
+    {
+      "arquivo": "output/video03_criancas.mp4",
+      "tipo": "longo",
+      "url": "https://youtu.be/A72CWpiCg8M"
+    },
+    {
+      "arquivo": "output/video04_desafio.mp4",
+      "tipo": "longo",
+      "url": "https://youtu.be/lneBihnCdPM"
+    },
+    {
+      "arquivo": "output/video05_pais.mp4",
+      "tipo": "longo",
+      "url": "https://youtu.be/GTZdBvaaDns"
+    },
+    {
+      "arquivo": "output/shorts01_sinais.mp4",
+      "tipo": "shorts",
+      "status": "publicado",
+      "url": "https://youtu.be/Tavq5xrv85Y"
+    },
+    {
+      "arquivo": "output/shorts02_dopamina.mp4",
+      "tipo": "shorts",
+      "status": "pronto-para-postar"
+    },
+    {
+      "arquivo": "output/shorts03_tralalero.mp4",
+      "tipo": "shorts",
+      "status": "pronto-para-postar"
+    }
+  ],
+  "ultima_analise": null,
+  "seo_otimizado": "2026-09-22 (titulos+descricoes+tags+capitulos em work/seo_longos.json, publicar via python seo_publish.py)"
+}
